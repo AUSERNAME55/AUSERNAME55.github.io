@@ -1,0 +1,51 @@
+.Titled {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.blackTitle {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.section1 {
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.gyattrizzler {
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.background {
+    background-color: #4c784c;
+    text-align: center;
+}
+
+.sub-title {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    margin-top: 100px;
+    font-style: bold;
+
+}
+
+.title {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif    ;
+    color: white;
+}
+
+.button {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 2px solid white;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 120px;
+}
